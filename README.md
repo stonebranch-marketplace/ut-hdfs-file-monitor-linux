@@ -92,32 +92,38 @@ https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-d
 Go to “All Tasks” and load via the Import functionality the Universal Task configuration into the Controller. 
 
 Image 1:
+
 ![](images/image1.png)
 
 Image 2:
+
 ![](images/image2.png)
 
 # 5	Universal Task Configuration
 
 **1.	Activate: Resolvable Credentials in Universal Automation Center properties:**
 
-Image 3 :
+Image 3:
+
 ![](images/image3.png)
 
 
 **2.	Fill Out the Universal Task for hdfs file monitoring:**
 
-Image 4 :
+Image 4:
+
 ![](images/image4.png)
 
 Credential for Universal Task:
 
 Image 5:
+
 ![](images/image5.png)
 
 **Description:**
 
 Image 6:
+
 ![](images/image6.png)
 
 # 6	Test Cases
@@ -125,12 +131,15 @@ Image 6:
 The following basic test cases has been performed
 
 Image 7:
+
 ![](images/image7.png)
 
 Image 8:
+
 ![](images/image8.png)
 
 Image 9:
+
 ![](images/image9.png)
 
 # 7	Document References
@@ -138,6 +147,7 @@ Image 9:
 This document references the following documents:
 
 Image 10:
+
 ![](images/image10.png)
 
 
